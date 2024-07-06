@@ -1,0 +1,57 @@
+div {
+    display: flex;
+}
+#modelo1 {
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    margin-right: 50px;
+    
+}
+
+#modelo1 li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#modelo1 li a:hover {
+    background-color: #121111;
+    color: red;
+}
+
+#modelo2{
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    width: 200px;
+    background-color: rgb(48, 44, 44);
+    margin-right: 50px;
+
+}
+
+#modelo2 li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: solid gray 1px;
+    
+}
+
+#modelo2 li a:hover {
+    background-color: black;
+    color: white
+}
+
+#modelo3 {
+    list-style-type: none;
+    margin: 5;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    margin-right: 50px;
+}
